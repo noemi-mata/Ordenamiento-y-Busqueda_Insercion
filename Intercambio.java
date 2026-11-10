@@ -1,4 +1,5 @@
 //Noemi Mata Ruiz
+//Angel de Jesus Nolasco Rivera
 //GTID244
 //Pseudocodigo implementado a java
 
